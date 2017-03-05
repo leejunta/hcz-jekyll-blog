@@ -1,0 +1,25 @@
+---
+title: "Week 3 Summary - Hackathon"
+layout: post
+date: 2017-02-25
+author: juntaeklee
+description: No new material this week--mini-hackathon instead
+categories: ML101
+---
+
+# Mini-hackathon
+
+This week, most of our members were supposed to go to the hackathon at ISU
+(HackISU), but due to severe weather conditions, none of the drivers felt
+comfortable driving us there. Instead, some of the organizers decided that they
+will host a 8 hour long hackathon on campus instead!
+
+The hackathon will start at 12pm and they will provide dinner and snacks
+throughout. If you're interested, please contact Jarren Santos at [santosja17].
+
+See you all there!
+
+# Up next...
+
+Join us again next week to learn about how to implement a logistic regression
+model with regularization!
