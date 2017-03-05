@@ -2,13 +2,6 @@
 title: "Data Science at Grinnell College"
 layout: post
 date: 2017-02-09
-image: /assets/images/markdown.jpg
-headerImage: false
-tag:
-- datascience
-- GrinellCollege
-- Carvergrant
-category: blog
 author: juntaeklee
 description: Introduction to data science
 categories: ML101
