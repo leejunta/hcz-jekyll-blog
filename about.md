@@ -25,7 +25,7 @@ been up to.
 
 If you like what I do, please feel free to contact me at:
 ![Email][leejunta@grinnell.edu]
-*(a.k.a. please hire me)*
+*(i.e. please hire me)*
 
 Special thanks to:
 * Linh Pham for helping me with Jekyll
