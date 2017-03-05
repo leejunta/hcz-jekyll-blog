@@ -4,6 +4,7 @@ layout: post
 date: 2017-02-09
 author: webpage
 description: Implementing linear regression from scratch
+
 ---
 
 # Data Science Introduction and Linear Regression
