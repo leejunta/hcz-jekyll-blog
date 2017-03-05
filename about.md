@@ -24,8 +24,7 @@ some of my work. Feel free to check out my other tabs to see what I have
 been up to.
 
 If you like what I do, please feel free to contact me at:
-![Email][leejunta]
-*(i.e. please hire me)*
+leejunta@grinnell.edu
 
 Special thanks to:
 * Linh Pham for helping me with Jekyll
