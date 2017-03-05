@@ -2,7 +2,7 @@
 title: "Week 2 Summary - Regularization"
 layout: post
 date: 2017-02-18
-author: juntaeklee
+author: webpage
 description: Adding a regularization term to regression models
 categories: ML101
 ---
@@ -57,10 +57,10 @@ If you include everything we have talked about from last week and this week, you
 ## Up next...
 Like I mentioned, we will not be meeting next week because of the hackathon. The following week (week 4), I will talk about logistic regression! See you all in two weeks.
 
-[week1J]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1J.gif
-[week2J]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week2J.gif
-[week1theta]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1theta.gif
-[week1der]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1der.gif
-[week2der]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week2der.gif
-[week2table]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/R/week2table.png
-[week2t]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week2t.gif
+[week1J]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1J.gif
+[week2J]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week2J.gif
+[week1theta]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1theta.gif
+[week1der]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1der.gif
+[week2der]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week2der.gif
+[week2table]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/R/week2table.png
+[week2t]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week2t.gif

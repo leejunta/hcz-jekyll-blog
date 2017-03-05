@@ -2,7 +2,7 @@
 title: "Week 1 Summary - Linear Regression"
 layout: post
 date: 2017-02-09
-author: juntaeklee
+author: webpage
 description: Implementing linear regression from scratch
 categories: ML101
 ---
@@ -99,11 +99,11 @@ http://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-r
 ## Up next...
 Next week, we will learn about feature scaling and regularization to thoroughly implement linear regression.
 
-[week1graph1]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/R/week1figure1.png
-[week1graph2]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/R/week1graph2.png
-[parabola]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/R/parabola.png
-[week1J]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1J.gif
-[week1theta]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1theta.gif
-[week1der]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1der.gif
-[week1vectheta]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1vectheta.gif
-[week1vecJ]: https://raw.githubusercontent.com/leejunta/juntaeklee/gh-pages/assets/equations/week1vecJ.gif
+[week1graph1]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/R/week1figure1.png
+[week1graph2]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/R/week1graph2.png
+[parabola]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/R/parabola.png
+[week1J]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1J.gif
+[week1theta]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1theta.gif
+[week1der]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1der.gif
+[week1vectheta]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1vectheta.gif
+[week1vecJ]: https://raw.githubusercontent.com/leejunta/webpage/gh-pages/assets/equations/week1vecJ.gif
