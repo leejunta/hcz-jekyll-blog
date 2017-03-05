@@ -24,10 +24,12 @@ some of my work. Feel free to check out my other tabs to see what I have
 been up to.
 
 If you like what I do, please feel free to contact me at:
-![Email][leejunta@grinnell.edu]
+![Email][leejunta]
 *(i.e. please hire me)*
 
 Special thanks to:
 * Linh Pham for helping me with Jekyll
 * Professor Kuiper for encouraging me to start this
 * `codeasashu` for the template for this website
+
+[leejunta]: leejunta@grinnell.edu
