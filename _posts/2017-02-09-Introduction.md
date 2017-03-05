@@ -4,7 +4,6 @@ layout: post
 date: 2017-02-09
 author: juntaeklee
 description: Introduction to data science
-categories: ML101
 ---
 
 ## What is this?

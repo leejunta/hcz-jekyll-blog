@@ -4,7 +4,6 @@ layout: post
 date: 2017-02-18
 author: webpage
 description: Adding a regularization term to regression models
-categories: ML101
 ---
 
 # Regularization

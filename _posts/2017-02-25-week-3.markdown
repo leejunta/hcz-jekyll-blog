@@ -4,7 +4,6 @@ layout: post
 date: 2017-02-25
 author: juntaeklee
 description: No new material this week--mini-hackathon instead
-categories: ML101
 ---
 
 # Mini-hackathon

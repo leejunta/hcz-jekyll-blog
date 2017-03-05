@@ -4,7 +4,6 @@ layout: post
 date: 2017-03-04
 author: juntaeklee
 description: Logistic Regression
-categories: ML101
 ---
 
 # Logistic Regression
