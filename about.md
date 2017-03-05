@@ -4,8 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! My name is Jun Taek, and I'm a third year undergraduate student majoring in
+Mathematics and Psychology at Grinnell College. I am an aspiring data scientist
+interested in using data science for social good and to create tools that make our daily lives more productive.
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+I first came across data science upon a friend's suggestion to take Andrew Ng's
+Machine Learning course on Coursera, and I was hooked: learning about the
+algorithms I had been taking for granted for years and their broad applications
+was astonishing. Since then, I have been working on lots of independent
+projects (check out my projects page), and I think it's safe to say that this time, this interest is here to stay.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Anyways, I created this website because I found that so many students at Grinnell
+College want to learn about DS but there are few resources on campus. I started
+a DS club to teach the basics of machine learning, so everything I talk about
+will be up on the ML101 page here.
+
+I figured that while I help my peers, I might as well help myself and publicize
+some of my work. Feel free to check out my other tabs to check out what I have
+been up to.
+
+Special thanks to:
+* Linh Pham for helping me with Jekyll
+* Professor Kuiper for encouraging me to start this
+* `codeasashu` for the template for this website
