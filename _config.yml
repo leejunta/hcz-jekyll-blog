@@ -1,20 +1,19 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+title: Jun Taek Lee
+description: My Personal Website
+author: Jun Taek Lee
+logo: /wepage/assets/Images/profile.jpg
+github: https://github.com/leejunta
+about: Data Scientist
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://leejunta.github.io/webpage/"
+url: "https://leejunta.github.io/webpage/"
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: aboutjt
+google_analytics: UA-93050072-1
 
 share:
   twitter_username: \#
-  fb_appid: 000000000000
-
+  fb_appid: 1360178324043921
 
 enableTags: true
 tagarray: []
