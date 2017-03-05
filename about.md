@@ -20,8 +20,12 @@ a DS club to teach the basics of machine learning, so everything I talk about
 will be up on the ML101 page here.
 
 I figured that while I help my peers, I might as well help myself and publicize
-some of my work. Feel free to check out my other tabs to check out what I have
+some of my work. Feel free to check out my other tabs to see what I have
 been up to.
+
+If you like what I do, please feel free to contact me at:
+![Email][leejunta@grinnell.edu]
+*(a.k.a. please hire me)*
 
 Special thanks to:
 * Linh Pham for helping me with Jekyll
