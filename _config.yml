@@ -8,6 +8,7 @@ about: Data Scientist (leejunta@grinnell.edu)
 baseurl: "https://leejunta.github.io/webpage/"
 url: "https://leejunta.github.io/webpage/"
 
+disqus_shortname: jtwebsite
 google_analytics: UA-93050072-1
 
 share:
